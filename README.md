@@ -89,3 +89,9 @@
 -   Merge Sort
 -   Quick Sort
 -   Selection Sort
+
+## Substring Search
+
+### Python
+
+-   Brute Force
