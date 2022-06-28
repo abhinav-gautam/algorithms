@@ -97,3 +97,4 @@
 -   Brute Force
 -   Rabin Karp
 -   Knuth Moris Pratt
+-   Z Algorithm
